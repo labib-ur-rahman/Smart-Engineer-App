@@ -2,7 +2,6 @@
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=com.softylasa.smartengineer)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **All-in-one academic toolkit for BTEB engineering students**  
 *Centralized access to textbooks, tools, and resources for Bangladeshi polytechnic institutes*
