@@ -75,7 +75,7 @@
 │
 ├── 📂 admin-panel      # Admin CMS
 │   ├── src
-│   │   ├── components  # React UI components
+│   │   ├── components  # UI components
 │   │   ├── services    # Firebase services
 │   │   └── pages       # Admin views
 │
