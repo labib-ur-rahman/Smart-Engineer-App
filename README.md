@@ -1,4 +1,3 @@
-```markdown
 # 📱 Smart Engineer - Polytechnic Study Assistant
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=com.softylasa.smartengineer)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org)
