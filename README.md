@@ -6,16 +6,28 @@
 
 **All-in-one academic toolkit for BTEB engineering students**  
 *Centralized access to textbooks, tools, and resources for Bangladeshi polytechnic institutes*
+
+## 📸 Screenshots
+
+### 📱 Mobile Experience
 <div align="center">
+  <!-- Row 1 -->
   <img src="https://firebasestorage.googleapis.com/v0/b/smart-engineer-sl.firebasestorage.app/o/screenshot%2FSS%20-%20Home.png?alt=media&token=0d0aec3e-678f-48e0-8c6b-17b81d4ba2bd" width="23%" alt="Home Screen">  
   <img src="https://firebasestorage.googleapis.com/v0/b/smart-engineer-sl.firebasestorage.app/o/screenshot%2FSS%20-%20Study.png?alt=media&token=621a213f-e825-4df6-8128-1435593c44b6" width="23%" alt="Study Materials">
   <img src="https://firebasestorage.googleapis.com/v0/b/smart-engineer-sl.firebasestorage.app/o/screenshot%2FSS%20-%20Updates%20-%20Book.png?alt=media&token=7efd4c99-d026-4050-a80c-890c5c45d236" width="23%" alt="Book Updates">
   <img src="https://firebasestorage.googleapis.com/v0/b/smart-engineer-sl.firebasestorage.app/o/screenshot%2FSS%20-%20Updates%20-%20Notice.png?alt=media&token=b5c32585-9e38-4a8e-bb5c-3221a093843d" width="23%" alt="Notice Updates">
   
+  <!-- Row 2 -->
   <img src="https://firebasestorage.googleapis.com/v0/b/smart-engineer-sl.firebasestorage.app/o/screenshot%2FSS%20-%20Semester.png?alt=media&token=bcb78a16-6035-4cc6-8df0-0c6ff232a1d0" width="23%" alt="Semester View">
   <img src="https://firebasestorage.googleapis.com/v0/b/smart-engineer-sl.firebasestorage.app/o/screenshot%2FSS%20-%20Details.png?alt=media&token=7b98d2f2-4eef-4195-9555-9433a2738817" width="23%" alt="Book Details">
   <img src="https://firebasestorage.googleapis.com/v0/b/smart-engineer-sl.firebasestorage.app/o/screenshot%2FSS%20-%20Department.png?alt=media&token=b1bd5231-907b-469a-8754-7f15e81953cb" width="23%" alt="Department Selection">
   <img src="https://firebasestorage.googleapis.com/v0/b/smart-engineer-sl.firebasestorage.app/o/screenshot%2FSS%20-%20CGPA.png?alt=media&token=36198f78-18f1-4c45-adda-1647b5a62e4e" width="23%" alt="CGPA Calculator">
+</div>
+
+### 💻 Tablet Experience
+<div align="center">
+  <img src="https://firebasestorage.googleapis.com/v0/b/smart-engineer-sl.firebasestorage.app/o/screenshot%2FSS%20-%20Tab%20-%20Book.png?alt=media&token=07aa5e41-8f9f-4f05-8f9a-1d0bc82b3644" width="45%" alt="Tablet Book View">
+  <img src="https://firebasestorage.googleapis.com/v0/b/smart-engineer-sl.firebasestorage.app/o/screenshot%2FSS%20-%20Tab%20-%20Setting.png?alt=media&token=1ec303d2-2125-4e1f-8773-94f28742c8c4" width="45%" alt="Tablet Settings">
 </div>
 
 ## 🧩 Features
@@ -27,6 +39,7 @@
 - **🔐 Secure Authentication** - Google/email login
 - **🌗 Dark Mode** - Eye-friendly reading
 - **📥 Offline Access** - Download materials for offline use
+- **📱 Responsive Design** - Optimized for both phones and tablets
 
 ### Admin Panel
 - **📊 Content Management** - Manage books, notices, resources
@@ -79,9 +92,12 @@
 ✅ DMCA takedown process  
 
 ## 🚀 Roadmap
+- Class Routine Management
+- Keep important notes
 - Interactive quizzes
 - Video lecture integration
 - Discussion forums
+- Buy books online
 - Premium subscription
 - Multi-language support
 
