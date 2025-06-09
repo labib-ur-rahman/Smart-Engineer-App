@@ -37,9 +37,9 @@
 | Component | Technology |
 |-----------|------------|
 | **Frontend** | Kotlin, XML, Jetpack Components |
-| **Backend** | Firebase Auth, Firestore |
+| **Backend** | Firebase Auth, Firestore, SOL |
 | **Storage** | NGINX Server (HTTPS) |
-| **Admin Panel** | React.js, Firebase Admin SDK |
+| **Admin Panel** | Firebase Admin SDK |
 | **Architecture** | MVVM, Repository Pattern |
 
 ## 🗂️ Project Structure
@@ -68,29 +68,6 @@
     └── scripts         # Server utilities
 ```
 
-## 🔧 Setup
-
-1. **Clone repository**
-```bash
-git clone https://github.com/your-username/smart-engineer.git
-```
-
-2. **Student App**
-- Add `google-services.json` to `student-app/app/`
-- Update endpoints in `NetworkConstants.kt`
-
-3. **Admin Panel**
-```bash
-cd admin-panel
-npm install
-# Add Firebase credentials in .env file
-```
-
-4. **Build Student App**
-```bash
-./gradlew assembleDebug
-```
-
 ## 📜 Compliance
 ✅ GDPR-compliant data deletion  
 ✅ HTTPS encryption for all transfers  
@@ -105,52 +82,4 @@ npm install
 - Premium subscription
 - Multi-language support
 
-## 📄 License
-```markdown
-MIT License
-Copyright (c) 2025 SoftyLasa
-
-Permission granted for non-commercial educational use.
-Commercial use requires written consent.
-```
-
-## 🔗 Resources
-- [🌐 Production Server](https://smartengr.rudhashi.xyz)
-- [📱 Play Store](https://play.google.com/store/apps/details?id=com.softylasa.smartengineer)
-- [🔒 Privacy Policy](https://smartengr.rudhashi.xyz/privacy)
-- [🐛 Report Issues](https://github.com/your-username/smart-engineer/issues)
-
 > ⚠️ **Disclaimer**: Not affiliated with BTEB or Bangladesh government
-```
-
-## Recommended GitHub Repository Setup
-
-1. **Repository Settings**:
-   - **Description**: "All-in-one study app for BTEB polytechnic students with admin content management"
-   - **Topics**: `android`, `kotlin`, `firebase`, `education-app`, `polytechnic`, `bteb`, `diploma-engineering`, `react`, `admin-panel`
-
-2. **Essential Files**:
-   - Create `SECURITY.md` (for vulnerability reporting)
-   - Create `CONTRIBUTING.md` (contribution guidelines)
-   - Add `.github/CODEOWNERS` file
-
-3. **CONTRIBUTING.md Example**:
-```markdown
-## How to Contribute
-1. Fork the repository
-2. Create your feature branch: `git checkout -b feature/new-tool`
-3. Commit changes: `git commit -m 'Add new calculator feature'`
-4. Push to branch: `git push origin feature/new-tool`
-5. Submit a pull request
-
-## Code Style
-- Kotlin: Follow official style guide
-- XML: Use consistent indentation (2 spaces)
-- React: Functional components with hooks
-```
-
-4. **Repository Badges** (Add below main title):
-```markdown
-[![GitHub Issues](https://img.shields.io/github/issues/your-username/smart-engineer)](https://github.com/your-username/smart-engineer/issues)
-[![GitHub Stars](https://img.shields.io/github/stars/your-username/smart-engineer)](https://github.com/your-username/smart-engineer/stargazers)
-```
